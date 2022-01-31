@@ -16,8 +16,11 @@ namespace Function
             // LeapYear leapYear = new LeapYear();
             //leapYear.checkLeapOrNot();
 
-            PowerOf2 powerOf2 = new PowerOf2();
-            powerOf2.powerOf2();
+            //PowerOf2 powerOf2 = new PowerOf2();
+            //powerOf2.powerOf2();
+
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
+            harmonicNumber.harmonicSeries();
         }
     }
 }
