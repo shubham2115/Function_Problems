@@ -13,8 +13,11 @@ namespace Function
             //FlipCoin flipCoin = new FlipCoin();
             //flipCoin.checkHeadOrTailPercentage();
 
-            LeapYear leapYear = new LeapYear();
-            leapYear.checkLeapOrNot();
+            // LeapYear leapYear = new LeapYear();
+            //leapYear.checkLeapOrNot();
+
+            PowerOf2 powerOf2 = new PowerOf2();
+            powerOf2.powerOf2();
         }
     }
 }
